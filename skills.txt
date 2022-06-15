@@ -1,0 +1,16 @@
+ID: A1
+        Title: Регистрация нового пользователя на главной странице
+        Project: Обучающий портал
+        1. Зайти на главную страницу сайта (ссылка_на_сайт)
+        2. Нажать кнопку Регистрация
+        Enviroment: OS: Windows 10 x64 v21H1 build 19043.1741
+                    Browser: Google Chrome v102.0.5005.63 x64
+        Component: Кнопка Регистрация
+        Build: 0.3.3
+        Actual result: Нажатие кнопки Регистрация НЕ перенаправляет на Форму регистрации
+        Expected result: Нажатие кнопки Регистрация перенаправляет на Форму регистрации
+        Severity: Critical
+        Priority: High
+        Status: Open
+        Author: Pavel Skov
+        Attachments: картинка/gif/видео бага (или ссылка)

@@ -1,0 +1,6 @@
+Movie: Autoreiji
+TV series: A cop from Rublevka
+Dish: Borsch
+Season: Spring
+Country: Austria
+
